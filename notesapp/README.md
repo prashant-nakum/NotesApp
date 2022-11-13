@@ -1,3 +1,4 @@
+
 # NotesApp
 
 ## About:
@@ -62,8 +63,8 @@ In the command terminal, run the following commands:
     $ flutter run
 
 ## Tech used
-**Server** : Firebase
-**Client** : Flutter
+*Server* : Firebase
+*Client* : Flutter
 
 
 ## ℹ️ Version and packages used
@@ -82,14 +83,13 @@ In the command terminal, run the following commands:
 
 ## Packages
 <!-- Packages -->
-[cupertino_icons] : https://pub.dev/packages/cupertino_icons
-[firebase] : https://pub.dev/packages/firebase
-[firebase_auth] : https://pub.dev/packages/firebase_auth
-[firebase_core] : https://pub.dev/packages/firebase_core
-[cloud_firestore] : https://pub.dev/packages/cloud_firestore
-[google_sign_in] : https://pub.dev/packages/google_sign_in
-[intl] : https://pub.dev/packages/intl
-[flutter_spinkit] : https://pub.dev/packages/flutter_spinkit
-[share_plus] : https://pub.dev/packages/share_plus
-[flutter_share] : https://pub.dev/packages/flutter_share
-
+ - [cupertino_icons] : https://pub.dev/packages/cupertino_icons
+ - [firebase] : https://pub.dev/packages/firebase
+ - [firebase_auth] : https://pub.dev/packages/firebase_auth
+ - [firebase_core] : https://pub.dev/packages/firebase_core
+ - [cloud_firestore] : https://pub.dev/packages/cloud_firestore
+ - [google_sign_in] : https://pub.dev/packages/google_sign_in
+ - [intl] : https://pub.dev/packages/intl
+ - [flutter_spinkit] : https://pub.dev/packages/flutter_spinkit
+ - [share_plus] : https://pub.dev/packages/share_plus
+ - [flutter_share] : https://pub.dev/packages/flutter_share
